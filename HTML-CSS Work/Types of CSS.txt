@@ -1,0 +1,17 @@
+How many types of CSS?
+
+There are two types of CSS:
+	1.Internal Style Sheet(Ideal for single page)
+		a)In Line Style(Ideal for single tag)
+		b)Imbed Style(Ideal for multiple tags)
+
+	2.External Style Sheet(Ideal for multiple pages)
+---------------------------------------------------------------------------------------------------
+
+Ordered list: (It contains sequence like        Unordered  List:(It contains filled round or 
+1,2,3 or a.b.c. etc..)                                                                              disc like (.)/ circle/ square)
+1./A) Karachi                                                     . Karachi
+2./B) Lahore                                                      . Lahore
+3./C) Multan                                                     . Multan
+--------------------------------------------------------------------------------------------------
+DIV (In making a "div" always use % for width and always use px for height)

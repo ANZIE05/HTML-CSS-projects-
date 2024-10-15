@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><title> NEW PRACTICE </title>
+        <style>
+           body {background-color:pink;}
+           h1 {color:red;}
+        </style>
+</head>
+
+
+<body>
+
+<h1>BLOCKQUOTE & QUOTATION</h1>
+        <h2>Blockquote</h2>
+     <link href="file:///C:/Users/DIWANs/Desktop/1234.htmll"/>
+         <p>This site is made by me</p>
+                   
+<h2>Quotation</h2>
+   <P>George Eliot said <q>Never Judge a book bu its cover</q></P>
+   <P>George Eliot said "Never Judge a book bu its cover"</P>
+
+<h3>Abbreviation & Acronym</h3>
+   <p>1. <abbr title="Doctor">Dr. </abbr>Amir Liaquat Hussain.<BR><br>
+     2. My School Name is <abbr title="Army Public School">APS.</abbr></p>
+
+</body>
+</html>
